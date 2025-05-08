@@ -7,7 +7,7 @@
   </a>
   <a>
     <img src="https://img.shields.io/docker/v/viren070/aiostreams?style=for-the-badge" alt="version">
-  </a>
+  </a> 
   <a href="https://github.com/Viren070/AIOStreams/stargazers">
     <img src="https://img.shields.io/github/stars/Viren070/AIOStreams?style=for-the-badge" alt="GitHub Stars">
   </a>
